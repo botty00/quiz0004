@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'quiz4.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-
+'''
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
@@ -98,14 +98,14 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd9v8vd3hhb4hin',
-        'USER': 'fwpfedfvtiuedo',
-        'PASSWORD': 'b4582fd2541a07502194dab56da976995f7c8cc56cf66eeacf4de1e931b4738a',
-        'HOST': 'ec2-54-145-249-177.compute-1.amazonaws.com',
+        'NAME': 'dg7mp2u10vlrq',
+        'USER': 'rnfpyasngvmbcp',
+        'PASSWORD': 'de27c24bce612796648d401ac247288a8746b02b185a0d6598aa2e22d97b2e30',
+        'HOST': 'ec2-34-203-255-149.compute-1.amazonaws.com',
         'PORT': '5432',
 
 }
-'''
+
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators

@@ -1,5 +1,1 @@
-web:
-gunicorn
-quiz4.wsgi
---log-file
--
+web: gunicorn quiz4.wsgi --log-file -
